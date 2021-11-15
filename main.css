@@ -16,3 +16,11 @@ span {
 	padding: 10px;
 	margin: 10px;
 }
+
+div span {
+	background-color: red;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	position: absolute;
+}
