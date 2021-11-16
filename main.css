@@ -24,3 +24,10 @@ div span {
 	margin: 10px;
 	position: absolute;
 }
+
+h3 {
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	background-color: blue;
+}
